@@ -21,3 +21,17 @@
 //     console.log (i); //Anything mod 2 from 10-100 without a remainder is printed
 //   }
 // }
+
+// let sum = 0;
+// for (let i=0; i<=100; i++) {
+//   sum += i;
+// } //Add odd numbers within range?
+// console.log(`The sum is ${sum}`);
+
+// let sum = 0;
+// for (let i=0; i<=100; i++) {
+//   if(i%2==0){
+//     sum +=1;
+//   } //Add all even numbers in range and add 1?
+//   }
+//   console.log(`The sum is ${sum}`)
